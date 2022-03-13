@@ -255,8 +255,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 قناة السورس", url="t.me/vod_ika0"),
-                    InlineKeyboardButton(" مبرمج السورس يبني..📚", url="t.me/v_o_d_i_k_a"),
+                    InlineKeyboardButton("✨ قناة السورس", url="https://t.me/MR_X_N_2"),
+                    InlineKeyboardButton(" مبرمج السورس يبني..⚜️", url="t.me/MR_X_N"),
                 ],
                 [InlineKeyboardButton(text="🗑 حذف", callback_data="cls")],
             ]
@@ -293,8 +293,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🚨 قناة السورس", url="t.me/vod_ika0"),
-                        InlineKeyboardButton(" مبرمج السورس يبني..📚", url="t.me/v_o_d_i_k_a"),
+                        InlineKeyboardButton("✨ قناة السورس", url="https://t.me/MR_X_N_2"),
+                        InlineKeyboardButton(" مبرمج السورس يبني..⚜️", url="https://t.me/MR_X_N"),
                     ],
                     [InlineKeyboardButton(text="🗑 حذف", callback_data="cls")],
                 ]
@@ -356,8 +356,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚨 قناة السورس", url="t.me/vod_ika0"),
-                    InlineKeyboardButton(" مبرمج السورس يبني..📚", url="t.me/v_o_d_i_k_a"),
+                    InlineKeyboardButton("✨ قناة السورس", url="https://t.me/MR_X_N_2"),
+                    InlineKeyboardButton(" مبرمج السورس يبني..⚜️", url="https://t.me/MR_X_N"),
                 ],
                 [InlineKeyboardButton(text="🗑 حذف", callback_data="cls")],
             ]
