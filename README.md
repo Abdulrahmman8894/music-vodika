@@ -60,7 +60,7 @@
 
 <p align="center">
 
-<a href="https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/music-vodika"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="250""/</a>  
+<a href="https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/music-vodika"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" 
 
 # Credits
 
