@@ -12,8 +12,8 @@
 
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
 
-[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/DeCodeSupport)
-[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/DeeCodeBots)
+[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/MR_X_N_2)
+[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/SULTAN1_1B)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
