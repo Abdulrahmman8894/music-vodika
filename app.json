@@ -2,7 +2,7 @@
   "name": "DeCodeMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/21e8e309addc276362496.jpg",
+  "logo": "https://telegra.ph/file/fbbdab6840ec5fa6ed324.jpg",
   "repository": "https://github.com/Abdulrahmman8894/music-vodika",
   "stack": "container",
   "env": {
