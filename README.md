@@ -58,9 +58,11 @@
 
 </h2>
 
-<p align="center">
+## Heroku Deployment 💜
 
-<a href="https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/music-vodika"><img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" 
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Abdulrahmman8894/music-vodika)
 
 # Credits
 
