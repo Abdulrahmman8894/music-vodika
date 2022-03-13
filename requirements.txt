@@ -1,4 +1,4 @@
-git+http
+git+https://github.com/Abdulrahmman8894/@MR_X_N
 pyrogram
 TgCrypto
 py-tgcalls
