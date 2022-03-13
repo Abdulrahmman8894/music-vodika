@@ -54,16 +54,13 @@
 
 <h2 align="center">
 
-   Deploy
-
-</h2>
-
-## Heroku Deployment 💜
-
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Abdulrahmman8894/music-vodika)
-
+   
+## 🚀 Deployment
+  
+  ### 💜 Heroku
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/music-vodika)
+  
 # Credits
 
 - callmusic 
