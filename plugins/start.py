@@ -43,10 +43,10 @@ async def start(_, message: Message):
                         "الاوامر🧰", url="https://telegra.ph/%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AC-%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%91%BA%F0%9D%91%B0%F0%9D%91%AC%F0%9D%91%BA%F0%9D%91%BB%F0%9D%91%A8-%F0%9D%91%BF-%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C-%F0%9D%90%81%F0%9D%90%A8%F0%9D%90%AD-03-13")
                   ],[
                     InlineKeyboardButton(
-                       " قناة البوت..🙂♥👿", url="https://t.me/MR_X_N_2"
+                       " قناة البوت..🙂♥👿", url="https://t.me/MR_X_N4"
                     ),
                     InlineKeyboardButton(
-                        "مبرمج السورس يبني..📚", url="https://t.me/MR_X_N"
+                        "مبرمج السورس يبني..📚", url="https://t.me/MR_X_N7"
                     )
                 ],[
                     InlineKeyboardButton(
